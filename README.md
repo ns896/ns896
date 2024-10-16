@@ -39,7 +39,7 @@ At **Zendar INC.**, I design and develop mixed signal PCB boards for automotive-
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, questions, or just to chat about technology!  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin](https://www.linkedin.com/in/navneetsingh1995/))](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/navneetsingh1995/)
 
 ---
 
