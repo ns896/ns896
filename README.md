@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Navneet Singh!
 
-I'm an **Electrical Design Engineer** passionate about innovation in the field of embedded electronics. I specialize in designing groundbreaking solutions using **FPGAs**, **CPLDs**, and **SOCs** that push the boundaries of what's achievable.
+I'm an **Electrical Design Engineer** passionate about innovation in the field of embedded electronics. I specialize in designing solutions using **FPGAs**, **CPLDs**, and **SOCs** that push the boundaries of what's achievable.
 
 ## 🔧 My Expertise
 
@@ -13,12 +13,6 @@ I'm an **Electrical Design Engineer** passionate about innovation in the field o
 
 ### 🌟 Current Role
 At **Zendar INC.**, I design and develop mixed signal PCB boards for automotive-grade **76-81 GHz imaging radar heads**. My work involves integrating high-speed devices into SOC modules using protocols like **PCIE**, **1000BaseT1 Ethernet**, and **MIPI-CSI**.
-
-### 💡 Previous Experience
-At **Transonic Systems INC.**, I specialized in the design, debugging, and failure analysis of mixed signal circuit boards for **medical devices**. My expertise includes working with FPGAs, CPLDs, PSOCs, and ARM MCUs.
-
-### 🎓 Research Experience
-My journey at **Adie Lab – Cornell University** led me into **RTL design and simulation** for Optical Coherence Tomography and Scanning Probe Microscope imaging systems. I also developed GUI-based automated diagnostic tools using **LABVIEW** & **MATLAB**.
 
 ## 📚 My Projects
 
@@ -45,7 +39,7 @@ My journey at **Adie Lab – Cornell University** led me into **RTL design and s
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, questions, or just to chat about technology!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin](https://www.linkedin.com/in/navneetsingh1995/))](your-linkedin-url)
 
 ---
 
