@@ -1,6 +1,6 @@
 # Navneet Singh!
-# Master's Cornell University,
-# Department of Biomedical Engineering 
+## Master's Cornell University,
+## Department of Biomedical Engineering 
 
 I'm an **Electrical Design Engineer** passionate about innovation in the field of embedded electronics. I specialize in designing solutions using **FPGAs**, **CPLDs**, and **SOCs** that push the boundaries of what's achievable.
 
